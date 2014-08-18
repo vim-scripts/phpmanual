@@ -1,0 +1,17 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5007
+
+This is php manual plugin for vim with help keyword doc.
+
+You can do these with this plugin:
+
+in normal mode,
+
+    press SHIFT-k to view the Explanation of the keyword under the cursor
+    press CTRL-ALT-k to see the online manual of the keyword under the cursor
+
+in visual mode,
+
+    select content, and then press SHIFT-k to view the Explanation of the content
+    select content, and then press CTRL-ALT-k to see the online manual of the content
+
+more in https://github.com/alvan/vim-phpmanual

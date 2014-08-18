@@ -1,0 +1,33 @@
+imageaffinematrixget
+
+(PHP 5 >= 5.5.0)
+
+imageaffinematrixget — Return an image containing the affine tramsformed src
+image, using an optional clipping area
+
+==============================================================================
+*Description*
+
+    array imageaffinematrixget ( int $type [, mixed $options ] )~
+
+Warning
+
+This function is currently not documented; only its argument list is
+available.
+
+==============================================================================
+*Parameters*
+
+{type}
+
+    One of IMG_AFFINE_* constants.
+
+{options}
+
+==============================================================================
+*Return* *Values*
+
+Array with keys 0 to 5 and float values or FALSE on failure.
+
+
+vim:ft=help:
